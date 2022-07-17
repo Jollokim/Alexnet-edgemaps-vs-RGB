@@ -101,11 +101,3 @@ When all epochs are completed, the highest validation score weights test accurac
 Example, testing a model:
 
     python main.py --mode test --dataset NI --pretrained_weights models/NI_resized_model/epoch27.pt --test_folder image_data/NI_resized/test
-
-
-
-
-
-
-
-"# CNN-on-edge-maps" 
