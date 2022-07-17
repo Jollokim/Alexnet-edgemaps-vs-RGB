@@ -1,3 +1,10 @@
+# Project related
+.idea/
+*.zip
+*.docx
+image_data/
+models/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
