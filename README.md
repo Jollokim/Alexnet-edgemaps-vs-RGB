@@ -2,7 +2,7 @@
 
 ## Context 
 
-This was my last exam project in a the Image Analysis course at Østfold University College. This project received the highest possible grade, A.
+This was my last exam project in a the Image Analysis course at Østfold University College. This project received the highest possible grade, **A**.
 
 ## Preparing the python environment
 ### Create the python environment:
