@@ -4,6 +4,8 @@
 
 This was my last exam project in a the Image Analysis course at Østfold University College. This project received the highest possible grade, **A**.
 
+The project is a small research looking into how the very first CNN architecture Alexnet performs on different types of edge maps in comparison to regular RGB images. The work envolved creating my own Alexnet from scratch in Pytorch + training and testing it. To create the different edge maps I use different methods I've learned during the course. For more information, look into report.pdf.
+
 ## Preparing the python environment
 ### Create the python environment:
 
